@@ -1,5 +1,7 @@
 # Tetris
 
+Main file: [tetris.py](tetris.py)
+
 ## The problem
 
 Build a small Tetris engine according to the following specification:
