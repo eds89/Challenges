@@ -1,6 +1,6 @@
 """
-Author: Eduardo dos Santos
-Finished on 31/05/2022
+Author: eds89
+Date: 31/05/2022
 """
 import sys
 import numpy as np
