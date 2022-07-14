@@ -4,7 +4,7 @@ Date: 31/05/2022
 """
 import sys
 import numpy as np
-
+import time
 
 class Piece(object):
     """
@@ -318,3 +318,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    time.sleep(5 * 60)
+    
